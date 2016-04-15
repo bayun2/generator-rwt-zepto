@@ -29,7 +29,10 @@ module.exports = yeoman.Base.extend({
       'README.md',
       'HISTORY.md',
       'gulpfile.js',
-      'webpack.config.js'
+      'webpack.config.js',
+      'start.js',
+      'monitor.js',
+      'monitor.config.js'
     ];
 
     var prompts = [{
