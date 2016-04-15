@@ -1,0 +1,26 @@
+{
+  "name": "generator-rwt-zepto",
+  "version": "0.0.0",
+  "description": "基于zepto的脚手架",
+  "homepage": "",
+  "author": {
+    "name": "wentao.ruan",
+    "email": "bayun2@163.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "zepto",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "repository": "bayun2/generator-rwt-zepto",
+  "license": "MIT"
+}
